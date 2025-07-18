@@ -35,5 +35,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "resolutions": {
+    "@typescript-eslint/typescript-estree": "3.10.2",
+    "postcss": "8.4.38"
   }
 }
